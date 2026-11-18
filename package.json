@@ -1,0 +1,8 @@
+{
+  "name": "dogfight-multiplayer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Browser dogfight game with a tiny WebSocket multiplayer server",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
